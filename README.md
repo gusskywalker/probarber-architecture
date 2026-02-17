@@ -31,19 +31,6 @@ More than just code, this project was designed with **User Experience** in mind,
 
 ## 📸 Project Preview
 
-<p align="center">
-  <img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/324f7f4a-ab3a-4beb-aae5-5cb8af82b1a8" />
-  <br>
-  <em>Main dashboard showcasing the appointment scheduling system and tenant management interface.</em>
-</p>
-
-
-<p align="center">
-  <img width="1131" height="706" alt="image" src="https://github.com/user-attachments/assets/8dea8aba-8a75-410e-bc39-3bcd0cdc046d" />
-  <br>
-  <em>With complex backend and frontend structures, organization is key for maintainability.</em>
-</p>
-
 The ProBarber platform emphasizes operational efficiency and a seamless user experience.
 
 | Management Interface | Project Organization |
