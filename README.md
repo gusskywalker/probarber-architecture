@@ -38,3 +38,12 @@ The ProBarber platform emphasizes operational efficiency and a seamless user exp
 | <img src="https://github.com/user-attachments/assets/324f7f4a-ab3a-4beb-aae5-5cb8af82b1a8" width="100%" /> | <img src="https://github.com/user-attachments/assets/8dea8aba-8a75-410e-bc39-3bcd0cdc046d" width="100%" /> |
 | *Main dashboard showcasing the intuitive scheduling system.* | *Complex structures organized for high maintainability.* |
 
+
+
+| General Styling | Automated Testing |
+| :---: | :---: |
+| <img alt="image" src="https://github.com/user-attachments/assets/f85b2e86-a6cc-4afb-802d-e86f44e3bde4" /> | <img alt="image" src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" /> |
+| *Intuitive interfaces with a dash of glassmorphism styling.* | *Fully operational automated testing.* |
+
+
+
