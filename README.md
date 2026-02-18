@@ -3,7 +3,7 @@ Technical showcase and architecture overview of ProBarber, a full-stack SaaS pla
 
 # ProBarber - Architecture Showcase ⚙️
 
-This repository serves as a **technical documentation and architectural overview** of the ProBarber SaaS platform. The project was built from the ground up (**Green Field**) to solve complex management challenges in the beauty industry. Its being built with white-labeling in mind from thr start.
+This repository serves as a **technical documentation and architectural overview** of the ProBarber SaaS platform. The project was built from the ground up (**Green Field**) to solve complex management challenges in the beauty industry. Its being built with white-labeling in mind from the start.
 
 ## 🛠 Tech Stack
 * **Backend:** Laravel (PHP) with a focus on robust validation using FormRequests.
