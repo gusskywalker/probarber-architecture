@@ -10,6 +10,7 @@ This repository serves as a **technical documentation and architectural overview
 * **Frontend:** Angular utilizing **TanStack Query** for efficient state management and server-state synchronization.
 * **Database:** MySQL for robust and lightweight data architecture.
 * **Testing:** PHPUnit for automated backend testing to ensure reliability.
+* **Messaging:** FireBase FCM for real-time push-notifications.
 
 ## 🏗 Key Engineering Pillars
 My goal with this architecture was to implement the core concepts of high-performance systems:
