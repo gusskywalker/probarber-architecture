@@ -6,7 +6,7 @@ Technical showcase and architecture overview of ProBarber, a full-stack SaaS pla
 This repository serves as a **technical documentation and architectural overview** of the ProBarber SaaS platform. The project was built from the ground up (**Green Field**) to solve complex management challenges in the beauty industry. Its being built with white-labeling in mind from the start.
 
 ## 🛠 Tech Stack
-* **Backend:** Laravel (PHP) with a focus on robust validation using FormRequests.
+* **Backend:** Laravel (PHP), robust data validation via FormRequests and business rules enforcement through Actions.
 * **Frontend:** Angular utilizing **TanStack Query** for efficient state management and server-state synchronization.
 * **Database:** MySQL for robust and lightweight data architecture.
 * **Testing:** PHPUnit for automated backend testing to ensure reliability.
