@@ -11,6 +11,7 @@ This repository serves as a **technical documentation and architectural overview
 * **Database:** MySQL for robust and lightweight data architecture.
 * **Testing:** PHPUnit for automated backend testing to ensure reliability.
 * **Messaging:** FireBase FCM for real-time push-notifications.
+* **Logging:** AWS DynamoDB NoSQL to decouple audit logs from the primary transactional database.
 
 ## 🏗 Key Engineering Pillars
 My goal with this architecture was to implement the core concepts of high-performance systems:
