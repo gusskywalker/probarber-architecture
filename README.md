@@ -12,6 +12,7 @@ This repository serves as a **technical documentation and architectural overview
 * **Testing:** **PHPUnit** for automated backend testing to ensure reliability.
 * **Messaging:** **FireBase FCM** for real-time push-notifications.
 * **Logging:** **AWS DynamoDB NoSQL** to decouple audit logs from the primary transactional database.
+* **Multi-Tenancy** Logical Data Isolation using a single-database strategy with **Global Query Scopes** to ensure secure tenant-level data partitioning.
 
 ## 🏗 Key Engineering Pillars
 My goal with this architecture was to implement the core concepts of high-performance systems:
@@ -23,7 +24,6 @@ My goal with this architecture was to implement the core concepts of high-perfor
 ## 🗺️ Roadmap & Future Enhancements
 While the core SaaS engine is functional, the following features are planned to further improve scalability and developer experience:
 * **Infrastructure:** Containerization using **Docker** for consistent environment orchestration.
-* **Multi-Tenancy Architecture:** Implementing a robust data isolation layer to support multiple barber shops securely within the same infrastructure.
 * **Advanced Analytics & Reporting:** Developing a comprehensive dashboard for business intelligence and financial insights.
 * **Messaging Integration:** Automated customer notifications and appointment reminders via WhatsApp API.
 * **Mobile Optimization:** Enhancing the current PWA (Progressive Web App) capabilities for a seamless mobile-first experience.
