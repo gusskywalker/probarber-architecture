@@ -12,7 +12,7 @@ This repository serves as a **technical documentation and architectural overview
 * **Testing:** **PHPUnit** for automated backend testing to ensure reliability.
 * **Messaging:** **FireBase FCM** for real-time push-notifications.
 * **Logging:** **AWS DynamoDB NoSQL** to decouple audit logs from the primary transactional database.
-* **Multi-Tenancy** Logical Data Isolation using a single-database strategy with **Global Query Scopes** to ensure secure tenant-level data partitioning.
+* **Multi-Tenancy** Logical Data Isolation using **Global Query Scopes** to ensure secure tenant-level data partitioning.
 
 ## 🏗 Key Engineering Pillars
 My goal with this architecture was to implement the core concepts of high-performance systems:
