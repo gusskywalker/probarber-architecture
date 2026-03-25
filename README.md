@@ -12,9 +12,9 @@ This repository serves as a **technical documentation and architectural overview
 * **Testing:** **PHPUnit** **-** automated backend testing to ensure reliability.
 * **Messaging:** **FireBase FCM** for real-time push-notifications.
 * **Logging:** **AWS DynamoDB NoSQL** **-** decouple audit logs from the primary transactional database.
-* **Multi-Tenancy** Logical Data Isolation using **Global Query Scopes** to ensure secure tenant-level data partitioning.
-* **Dashboard** All dashboard operations run from **cache.** No server load and instant feedback for a seamless user experience.
-* **Mobile Experience** Custom HTML and SCSS rules for mobile devices.
+* **Multi-Tenanc?y** Logical Data Isolation using **Global Query Scopes** to ensure secure tenant-level data partitioning.
+* **Dashboard:** All dashboard operations run from **cache.** No server load and instant feedback for a seamless user experience.
+* **Mobile:** Custom HTML and SCSS rules for **mobile devices.**
 
 ## 📊 Core Features & Business Logic
 * **Appointment Management:** A highly interactive interface for scheduling and managing barbers' availability.
