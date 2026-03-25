@@ -3,16 +3,26 @@ Technical showcase and architecture overview of ProBarber, a full-stack SaaS pla
 
 # ProBarber - Architecture Showcase ⚙️
 
-This repository serves as a **technical documentation and architectural overview** of the ProBarber SaaS platform. The project was built from the ground up (**Green Field**) to solve complex management challenges in the beauty industry. Its being built with white-labeling in mind from the start.
+This repository serves as a **technical documentation and architectural overview** of the ProBarber SaaS platform. The project was built from the ground up **(Green Field)** to solve complex management challenges in the beauty industry. White-labelling and modularization have been top priorities from the start.
 
 ## 🛠 Tech Stack
-* **Backend:** **Laravel (PHP),** robust data validation via **FormRequests** and business rules enforcement through **Actions.**
-* **Frontend:** **Angular** utilizing **TanStack Query** for efficient state management and server-state synchronization.
-* **Database:** **MySQL** for robust and lightweight data architecture.
-* **Testing:** **PHPUnit** for automated backend testing to ensure reliability.
+* **Backend:** **Laravel (PHP)** **-** robust data validation via **FormRequests** and business rules enforcement through **Actions.**
+* **Frontend:** **Angular** **-** **TanStack Query** for efficient state management and server-state synchronization.
+* **Database:** **MySQL** **-** lightweight relational data integrity.
+* **Testing:** **PHPUnit** **-** automated backend testing to ensure reliability.
 * **Messaging:** **FireBase FCM** for real-time push-notifications.
-* **Logging:** **AWS DynamoDB NoSQL** to decouple audit logs from the primary transactional database.
+* **Logging:** **AWS DynamoDB NoSQL** **-** decouple audit logs from the primary transactional database.
 * **Multi-Tenancy** Logical Data Isolation using **Global Query Scopes** to ensure secure tenant-level data partitioning.
+* **Dashboard** All dashboard operations run from **cache.** No server load and instant feedback for a seamless user experience.
+* **Mobile Experience** Custom HTML and SCSS rules for mobile devices.
+
+## 📊 Core Features & Business Logic
+* **Appointment Management:** A highly interactive interface for scheduling and managing barbers' availability.
+* **Zero-Friction Workflow:** No client-owner interaction required to confirm a slot; the system handles the handshake.
+* **Instant Notifications:** As soon as a booking is confirmed, Firebase FCM triggers a notification to the user instantly.
+* **Dashboard & CRM:** Detailed customer profiles with service history, preferences, and automated retention tools.
+* **Real-time Analytics:** Instant insights into revenue, peak hours, and occupancy rates directly on the main dashboard.
+* **Mobile Experience:** Tailored UI/UX designed for the specific high-mobility needs of beauty professionals.
 
 ## 🏗 Key Engineering Pillars
 My goal with this architecture was to implement the core concepts of high-performance systems:
@@ -24,9 +34,8 @@ My goal with this architecture was to implement the core concepts of high-perfor
 ## 🗺️ Roadmap & Future Enhancements
 While the core SaaS engine is functional, the following features are planned to further improve scalability and developer experience:
 * **Infrastructure:** Containerization using **Docker** for consistent environment orchestration.
-* **Advanced Analytics & Reporting:** Developing a comprehensive dashboard for business intelligence and financial insights.
-* **Messaging Integration:** Automated customer notifications and appointment reminders via WhatsApp API.
-* **Mobile Optimization:** Enhancing the current PWA (Progressive Web App) capabilities for a seamless mobile-first experience.
+* **Messaging Integration:** **Meta API (WhatsApp)** integration for promotional messaging and automated reminders with official business verification.
+* **SaaS Monetization:** Stripe/Asaas integration for automated subscription billing, ensuring seamless tenant access management.
 
 ## 🎯 Product-Minded Approach
 More than just code, this project was designed with **User Experience** in mind, ensuring that technical complexity never hinders operational efficiency.
