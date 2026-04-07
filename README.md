@@ -45,17 +45,20 @@ This project was designed with **User Experience** in mind, ensuring that techni
 
 The ProBarber platform emphasizes operational efficiency and a seamless user experience.
 
-| Management Interface | Project Organization |
+| Management Interface & General Styling |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/6df31d4f-87af-4ced-862f-56afb21f745d" width="100%" /> |
+| *Main dashboard showcasing the intuitive scheduling system.* |
+
+| Mobile Specific Interfaces |
+| :---: |
+| <img width="1080" height="741" alt="image" src="https://github.com/user-attachments/assets/fd55722a-52a5-4ce3-b783-a54c3eec212a" /> |
+| *UX planned around barber's high-mobility day-to-day scenarios.* |
+
+| Project Organization | Automated Testing |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/324f7f4a-ab3a-4beb-aae5-5cb8af82b1a8" width="100%" /> | <img src="https://github.com/user-attachments/assets/8dea8aba-8a75-410e-bc39-3bcd0cdc046d" width="100%" /> |
-| *Main dashboard showcasing the intuitive scheduling system.* | *Complex structures organized for high maintainability.* |
-
-
-
-| General Styling | Automated Testing |
-| :---: | :---: |
-| <img width="359" alt="image" src="https://github.com/user-attachments/assets/5f7baa26-8b90-414d-a313-1b656f038124" /> | <img width="359" alt="image" src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" /> |
-| *Modern and snappy interfaces.* | *Fully operational automated testing.* |
+| <img src="https://github.com/user-attachments/assets/8dea8aba-8a75-410e-bc39-3bcd0cdc046d" width="359" /> | <img src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" width="359" /> |
+| *Complex structures organized for high maintainability.* | *Fully operational automated testing.* |
 
 
 
