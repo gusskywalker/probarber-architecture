@@ -1,9 +1,9 @@
-# probarber-architecture
-Technical showcase and architecture overview of ProBarber, a full-stack SaaS platform built with Laravel, Angular, and PHP. Focused on scalability and clean code.
+# plusbarber-architecture
+Technical showcase and architecture overview of PlusBarber, a full-stack SaaS platform built with Laravel, Angular, and PHP. Focused on scalability and clean code.
 
-# ProBarber - Architecture Showcase ⚙️
+# PlusBarber - Architecture Showcase ⚙️
 
-This repository serves as a **technical documentation and architectural overview** of the ProBarber SaaS platform. The project was built from the ground up **(Green Field)** to solve complex management challenges in the beauty industry. White-labelling and modularization have been top priorities from the start.
+This repository serves as a **technical documentation and architectural overview** of the PlusBarber SaaS platform. The project was built from the ground up **(Green Field)** to solve complex management challenges in the beauty industry. White-labelling and modularization have been top priorities from the start.
 
 ## 🛠 Tech Stack
 * **Backend:** **Laravel (PHP)** **-** robust data validation via **FormRequests** and business rules enforcement through **Actions.**
@@ -43,7 +43,7 @@ This project was designed with **User Experience** in mind, ensuring that techni
 
 ## 📸 Project Preview
 
-The ProBarber platform emphasizes operational efficiency and a seamless user experience.
+The PlusBarber platform emphasizes operational efficiency and a seamless user experience.
 
 | Management Interface & General Styling |
 | :---: |
