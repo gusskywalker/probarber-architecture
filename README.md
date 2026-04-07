@@ -15,6 +15,7 @@ This repository serves as a **technical documentation and architectural overview
 * **Multi-Tenancy:** Logical Data Isolation using **Global Query Scopes** to ensure secure tenant-level data partitioning.
 * **Dashboard:** All dashboard operations run from **cache.** No server load and instant feedback for a seamless user experience.
 * **Mobile:** Custom HTML and SCSS rules for **mobile devices.**
+* **SMTP:** Brevo integration for reliable e-mailing, currently used for password recoveries and onboarding.
 
 ## 📊 Core Features & Business Logic
 * **Appointment Management:** A highly interactive interface for scheduling and managing barbers' availability.
@@ -38,7 +39,7 @@ While the core SaaS engine is functional, the following features are planned to 
 * **SaaS Monetization:** Stripe/Asaas integration for automated subscription billing, ensuring seamless tenant access management.
 
 ## 🎯 Product-Minded Approach
-More than just code, this project was designed with **User Experience** in mind, ensuring that technical complexity never hinders operational efficiency.
+This project was designed with **User Experience** in mind, ensuring that technical complexity never hinders operational efficiency.
 
 ## 📸 Project Preview
 
@@ -53,8 +54,8 @@ The ProBarber platform emphasizes operational efficiency and a seamless user exp
 
 | General Styling | Automated Testing |
 | :---: | :---: |
-| <img alt="image" src="https://github.com/user-attachments/assets/f85b2e86-a6cc-4afb-802d-e86f44e3bde4" /> | <img alt="image" src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" /> |
-| *Intuitive interfaces with a dash of glassmorphism styling.* | *Fully operational automated testing.* |
+| <img width="359" alt="image" src="https://github.com/user-attachments/assets/5f7baa26-8b90-414d-a313-1b656f038124" /> | <img width="359" alt="image" src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" /> |
+| *Modern and snappy interfaces.* | *Fully operational automated testing.* |
 
 
 
