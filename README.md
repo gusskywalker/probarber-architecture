@@ -55,9 +55,9 @@ The ProBarber platform emphasizes operational efficiency and a seamless user exp
 | <img width="1080" height="741" alt="image" src="https://github.com/user-attachments/assets/fd55722a-52a5-4ce3-b783-a54c3eec212a" /> |
 | *UX planned around barber's high-mobility day-to-day scenarios.* |
 
-| Project Organization | Automated Testing |
+| Project Organization | Automated Testing | State Management |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8dea8aba-8a75-410e-bc39-3bcd0cdc046d" width="359" /> | <img src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" width="359" /> | <img width="757" height="692" alt="image" src="https://github.com/user-attachments/assets/5e03c2e7-1d33-489b-b6ff-849b3f38d9d0" /> |
+| <img src="https://github.com/user-attachments/assets/8dea8aba-8a75-410e-bc39-3bcd0cdc046d" width="100%" /> | <img src="https://github.com/user-attachments/assets/492f8637-d56e-4f02-9086-6396be129c2f" width="100%" /> | <img src="https://github.com/user-attachments/assets/5e03c2e7-1d33-489b-b6ff-849b3f38d9d0" width="100%" /> |
 | *Complex structures organized for high maintainability.* | *Fully operational automated testing.* | *TanStack caching for state management.* |
 
 
